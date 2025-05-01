@@ -1,0 +1,35 @@
+h1 {
+    font-family: Arial, sans-serif; 
+    color: darkblue; 
+    margin-bottom: 20px; 
+}
+
+#main-title {
+    text-align: center;
+    font-size: 2em;
+}
+
+.intro {
+    font-family: 'Georgia', serif;
+    padding: 10px; 
+    border: 2px solid gray; 
+    background-color: #f9f9f9; 
+    margin-bottom: 20px;
+}
+
+.styled-image {
+    width: 300px; 
+    border: 5px solid #333; 
+    padding: 5px; 
+    margin: 20px 0; 
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.content {
+    background-color: #eef;
+    padding: 15px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}
